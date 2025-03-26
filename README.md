@@ -21,11 +21,12 @@
 百度坐标获取：https://api.map.baidu.com/lbsapi/getpoint/index.html<br>
 高德坐标获取（需要开发者）：https://lbs.amap.com/tools/picker<br><br>
 
+
+新版2.0版本使用教程<br>
+修改index.html中的key（高德地图key申请链接：https://console.amap.com/dev/key/app  ）<br>
+打开index.html选完点后导出csv文件<br>
+示例：python start.py -gg 标记信息.csv<br>
+<br>
+
 本人在闲鱼店：兮辰666，可以提供这个脚本的技术支持和代生成轨迹以及gps-sdr-sim解除300秒的限制<br>
 跪求路过的大佬帮忙优化一下，百度坐标我没试过，理论上应该可以的<br>
-
-
-新版2.0版本使用教程
-修改index.html中的key（高德地图key申请链接：https://console.amap.com/dev/key/app）
-打开index.html选完点后导出csv文件
-示例：python start.py -gg 标记信息.csv
