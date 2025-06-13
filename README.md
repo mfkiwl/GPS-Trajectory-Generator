@@ -27,12 +27,12 @@
 打开index.html选完点后导出csv文件<br>
 示例：python start.py -gg 标记信息.csv<br>
 <br>
-3.0版本
-新增转为GPGGA 和 GPGGC数据，支持更多设备使用
-并且可以把生成的数据转为kml
-可在Google Earth查看轨迹
-新增-s速度选项
-具体新增内容-h查看
-
+3.0版本<br>
+新增转为GPGGA 和 GPGGC数据，支持更多设备使用<br>
+并且可以把生成的数据转为kml<br>
+可在Google Earth查看轨迹<br>
+新增-s速度选项<br>
+具体新增内容-h查看<br>
+<br><br>
 本人在闲鱼店：兮辰666，可以提供这个脚本的技术支持和代生成轨迹以及gps-sdr-sim解除300秒的限制<br>
 跪求路过的大佬帮忙优化一下，百度坐标我没试过，理论上应该可以的<br>
